@@ -1,6 +1,6 @@
 # .NET Core og Docker
 
-...
+En ting jeg godt kan lide ved container teknologien er, at jeg
 
 ## .NET Core 2.1
 
@@ -21,5 +21,5 @@ https://github.com/slamidtfyn/rpi-docker-dotnet2_2
 
 https://cloud.docker.com/repository/docker/slamidtfyn/rpi-dotnet2_2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDgzMjM2XX0=
+eyJoaXN0b3J5IjpbMzI1MDk4MTgsMTUzNDgzMjM2XX0=
 -->
