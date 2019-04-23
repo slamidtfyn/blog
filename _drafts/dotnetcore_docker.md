@@ -20,3 +20,6 @@ https://cloud.docker.com/repository/docker/slamidtfyn/aspnetcore22
 https://github.com/slamidtfyn/rpi-docker-dotnet2_2
 
 https://cloud.docker.com/repository/docker/slamidtfyn/rpi-dotnet2_2
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTUzNDgzMjM2XX0=
+-->
