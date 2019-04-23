@@ -1,6 +1,6 @@
 # .NET Core og Docker
 
-En ting jeg godt kan lide ved container teknologien er, at jeg hurtigt kan teste nye versioner af fx. .NET Core. Så derfor har jeg denne liste 
+En ting jeg godt kan lide ved container teknologien er, at jeg hurtigt kan teste nye versioner af fx. .NET Core. Så derfor har jeg denne liste af repositories med forskelllige versioner af .NET Core.
 
 ## .NET Core 2.1
 
@@ -21,5 +21,5 @@ https://github.com/slamidtfyn/rpi-docker-dotnet2_2
 
 https://cloud.docker.com/repository/docker/slamidtfyn/rpi-dotnet2_2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzI4MDQwMCwxNTM0ODMyMzZdfQ==
+eyJoaXN0b3J5IjpbOTg1OTEwMzY2LDE1MzQ4MzIzNl19
 -->
